@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "דבש טהור מפרחי בר",
+    "image": "/dvash.jpg",
+    "price": "7.50",
+    "description": " "
+  },
+  {
+    "id": 1,
+    "name": "פרוסות גבינה צהובה 400 גרם",
+    "image": "/gvina.jpg",
+    "price": "12.80 ",
+    "description":" "
+  },
+  {
+    "id": 2,
+    "name": "טחינה ירושלים 500 גרם",
+    "image": "/tahini.jpg",
+    "price": "16.80",
+    "description": " "
+  },
+  {
+    "id": 3,
+    "name": "ג'חנון",
+    "image": "/jahnun.jpg",
+    "price": "10.71",
+    "description": " "
+  },
+  {
+    "id": 4,
+    "name": "רוטב פרימיום לסלט קיסר",
+    "image": "/keisar.jpg",
+    "price": "12.33",
+    "description": " "
+  },
+  {
+    "id": 5,
+    "name": "טואלט 32 TNX",
+    "image": "/toilet.jpg",
+    "price": "44.91",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "עגבניות קצוצות בתוספת בזיליקום",
+    "image": "/tomato.jpg",
+    "price": "5.80",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "טונה סטארקיסט בטעם מעושן",
+    "image": "/tuna.jpg",
+    "price": "8.30",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "אורז פרסי",
+    "image": "/orez.jpg",
+    "price": "8.90",
+    "description": " "
+  },
+  {
+    "id": 9,
+    "name": "קפה טורקי עלית 125 גרם",
+    "image": "cofee.jpg",
+    "price": "8.99",
+    "description": " "
+  }
+]
